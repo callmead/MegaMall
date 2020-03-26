@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Crystal Decisions\9.0\Crystal Reports]
+"CommonFiles"="c:\\program files\\common files\\crystal decisions\\2.0\\bin"
+

@@ -1,0 +1,302 @@
+[Root]
+Most Recent Package=Standard Setup Package
+
+
+[Package|Standard Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Work Area\Mega Mall\Setup
+
+[Package|Standard Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package|Files Found]
+u2dapp.dll=C:\Work Area\Dlls Req\u2dapp.dll
+u2dpost.dll=C:\Work Area\Dlls Req\u2dpost.dll
+u2fcr.dll=C:\Work Area\Dlls Req\u2fcr.dll
+u2fsepv.dll=C:\Work Area\Dlls Req\u2fsepv.dll
+
+[Package|Standard Setup Package|Files Released]
+profit_mc.rpt=
+
+[Package|Standard Setup Package|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Work Area\Mega Mall\Source\Memory  Cleaner.exe=
+
+[Package|Standard Setup Package|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package|Files Added]
+c:\work area\mega mall\source\duas.exe=
+c:\work area\mega mall\source\memory  cleaner.exe=
+c:\work area\mega mall\source\cursor.ani=
+c:\work area\mega mall\source\customer.rpt=
+c:\work area\mega mall\source\customeracct.rpt=
+c:\work area\mega mall\source\download.bat=
+c:\work area\mega mall\source\expense.rpt=
+c:\work area\mega mall\source\home.bat=
+c:\work area\mega mall\source\invoice.rpt=
+c:\work area\mega mall\source\profit.rpt=
+c:\work area\mega mall\source\purchase_order.rpt=
+c:\work area\mega mall\source\receivings.rpt=
+c:\work area\mega mall\source\sales.rpt=
+c:\work area\mega mall\source\stock.rpt=
+c:\work area\mega mall\source\supplier.rpt=
+c:\work area\mega mall\source\supplieracct.rpt=
+c:\work area\mega mall\source\upload.bat=
+c:\work area\mega mall\source\profit_1ym.rpt=
+c:\work area\mega mall\source\profit_y.rpt=
+
+[Package|Standard Setup Package|Files Removed]
+
+[Package|Standard Setup Package|Files In Project]
+C:\Work Area\Mega Mall\Source\MM_POS.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSDATREP.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\exlate32.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Work Area\Mega Mall\Source\DUAS.EXE=Yes
+C:\Work Area\Mega Mall\Source\Memory  Cleaner.exe=Yes
+C:\Work Area\Mega Mall\Source\cursor.ani=Yes
+C:\Work Area\Mega Mall\Source\Customer.rpt=Yes
+C:\Work Area\Mega Mall\Source\CustomerAcct.rpt=Yes
+C:\Work Area\Mega Mall\Source\Download.bat=Yes
+C:\Work Area\Mega Mall\Source\Expense.rpt=Yes
+C:\Work Area\Mega Mall\Source\Home.bat=Yes
+C:\Work Area\Mega Mall\Source\Invoice.rpt=Yes
+C:\Work Area\Mega Mall\Source\Profit.rpt=Yes
+C:\Work Area\Mega Mall\Source\Purchase_Order.rpt=Yes
+C:\Work Area\Mega Mall\Source\Receivings.rpt=Yes
+C:\Work Area\Mega Mall\Source\Sales.rpt=Yes
+C:\Work Area\Mega Mall\Source\Stock.rpt=Yes
+C:\Work Area\Mega Mall\Source\Supplier.rpt=Yes
+C:\Work Area\Mega Mall\Source\SupplierAcct.rpt=Yes
+C:\Work Area\Mega Mall\Source\Upload.bat=Yes
+C:\Work Area\Dlls Req\unicows.dll=Yes
+C:\Work Area\Dlls Req\u2fcr.dll=Yes
+C:\Work Area\Dlls Req\u2fsepv.dll=Yes
+C:\Work Area\Dlls Req\u2fxml.dll=Yes
+C:\Work Area\Dlls Req\u2dpost.dll=Yes
+C:\Work Area\Dlls Req\u2dapp.dll=Yes
+C:\Work Area\Mega Mall\Source\Profit_1YM.rpt=Yes
+C:\Work Area\Mega Mall\Source\Profit_Y.rpt=Yes
+
+[Package|Standard Setup Package|Configure Registry Files]
+Applicable=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Register
+
+[Package|Standard Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package|Install Locations]
+C:\Work Area\Mega Mall\Source\MM_POS.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDATREP.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\u2dpost.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\New Alkhayaam OK\Dlls Req\u2dapp.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Work Area\Mega Mall\Source\DUAS.EXE=$(AppPath)
+C:\Work Area\Mega Mall\Source\Memory  Cleaner.exe=$(AppPath)
+C:\Work Area\Mega Mall\Source\cursor.ani=$(AppPath)
+C:\Work Area\Mega Mall\Source\Customer.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\CustomerAcct.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Download.bat=$(AppPath)
+C:\Work Area\Mega Mall\Source\Expense.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Home.bat=$(AppPath)
+C:\Work Area\Mega Mall\Source\Invoice.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Profit.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Profit_MC.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Purchase_Order.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Receivings.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Sales.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Stock.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Supplier.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\SupplierAcct.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Upload.bat=$(AppPath)
+C:\Work Area\Dlls Req\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Dlls Req\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Dlls Req\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Dlls Req\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Dlls Req\u2dpost.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Dlls Req\u2dapp.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Work Area\Mega Mall\Source\Profit_1YM.rpt=$(AppPath)
+C:\Work Area\Mega Mall\Source\Profit_Y.rpt=$(AppPath)
+
+[Package|Standard Setup Package|Configure Shared Files]
+Applicable=Yes
+C:\Work Area\Mega Mall\Source\MM_POS.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Work Area\Mega Mall\Source\DUAS.EXE=No
+C:\Work Area\Mega Mall\Source\Memory  Cleaner.exe=No
+C:\Work Area\Mega Mall\Source\cursor.ani=No
+C:\Work Area\Mega Mall\Source\Customer.rpt=No
+C:\Work Area\Mega Mall\Source\CustomerAcct.rpt=No
+C:\Work Area\Mega Mall\Source\Download.bat=No
+C:\Work Area\Mega Mall\Source\Expense.rpt=No
+C:\Work Area\Mega Mall\Source\Home.bat=No
+C:\Work Area\Mega Mall\Source\Invoice.rpt=No
+C:\Work Area\Mega Mall\Source\Profit.rpt=No
+C:\Work Area\Mega Mall\Source\Profit_MC.rpt=No
+C:\Work Area\Mega Mall\Source\Purchase_Order.rpt=No
+C:\Work Area\Mega Mall\Source\Receivings.rpt=No
+C:\Work Area\Mega Mall\Source\Sales.rpt=No
+C:\Work Area\Mega Mall\Source\Stock.rpt=No
+C:\Work Area\Mega Mall\Source\Supplier.rpt=No
+C:\Work Area\Mega Mall\Source\SupplierAcct.rpt=No
+C:\Work Area\Mega Mall\Source\Upload.bat=No
+C:\Work Area\Mega Mall\Source\Profit_1YM.rpt=No
+C:\Work Area\Mega Mall\Source\Profit_Y.rpt=No
+
+[Package|Standard Setup Package|Distribution]
+Type=single
+Size=
+Title=Mega Shopping Mall Point of Sale
+
+[Package|Standard Setup Package|Package]
+PackageFolder=C:\Work Area\Mega Mall\Setup
+ProjectFolder=C:\Work Area\Mega Mall\Source
+ServerSideCab=
+File1=C:\Work Area\Mega Mall\Setup\setup.exe
+File2=C:\Work Area\Mega Mall\Setup\Setup.Lst
+File3=C:\Work Area\Mega Mall\Setup\MM_POS.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package|IconGroups]
+Group0=Mega Shopping Mall Point of Sale
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package|Mega Shopping Mall Point of Sale]
+Icon1=MM_POS.exe
+Title1=Point of Sale
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=DUAS.EXE
+Title2=Duas
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3="Memory  Cleaner.exe"
+Title3=Memory Cleaner
+StartIn3=$(AppPath)
+Key3=Icon4

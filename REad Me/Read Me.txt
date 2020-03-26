@@ -1,0 +1,6 @@
+** IMPORTANT **
+1. Set the HDD Serial Number in Software
+
+2. Create Backup Folder in D Drive
+    install mysql admin
+    setup mysql admin for backup after every 3 days to backup folder
